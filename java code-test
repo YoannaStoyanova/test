@@ -1,21 +1,27 @@
 import java.util.Scanner;
 
 public class JavaTest{
+
+
 public static void main(String[] args){
+
 Scanner scan = nre Scanner(System.in);
+
 System.out.println("xa = ");
 int xa = scan.nextInt();
+
 System.out.println("ya = ");
 int xa = scan.nextInt();
+
 System.out.println("xb = ");
 int xa = scan.nextInt();
+
 System.out.println("yb = ");
 int xa = scan.nextInt();
 
-int A = xa + ya;
-int B = xb + yb;
+int a = xa + ya;
+int b = xb + yb;
 
-int lenght = A - B;
-System.out.printl(lenght);
+System.out.println(a-b);
 }
 }
