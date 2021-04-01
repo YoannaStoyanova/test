@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test{
+public class JavaTest{
 public static void main(String[] args){
 Scanner scan = nre Scanner(System.in);
 System.out.println("xa = ");
