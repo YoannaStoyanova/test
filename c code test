@@ -3,23 +3,23 @@
 int main()
 {
     int xa, ya, xb, yb ,x ,y;
-    printf("xa = ");
+    print("xa = ");
     scanf("%d", &xa);
-    printf("ya ");
+    print("ya ");
     scanf("%d", &ya);
-    printf("xb = ");
+    print("xb = ");
     scanf("%d", &xb);
-    printf("yb = ");
+    print("yb = ");
     scanf("%d", &yb);
     x = xb + xy;
     y = ya + yb
-    printf("%d + %d = %d\n", a, b, c);
+    print("%d + %d = %d\n", a, b, c);
     if(x <= y)
     {
-        printf(y - x)
+        print(y - x)
     }
     if(y <= x)
     {
-        printf(x - y)
+        print(x - y)
     }
 }
